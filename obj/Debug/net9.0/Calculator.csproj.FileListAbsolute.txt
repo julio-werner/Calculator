@@ -12,3 +12,4 @@ D:\Projetos C#\Calculator\obj\Debug\net9.0\refint\Calculator.dll
 D:\Projetos C#\Calculator\obj\Debug\net9.0\Calculator.pdb
 D:\Projetos C#\Calculator\obj\Debug\net9.0\Calculator.genruntimeconfig.cache
 D:\Projetos C#\Calculator\obj\Debug\net9.0\ref\Calculator.dll
+D:\Projetos C#\Calculator\obj\Debug\net9.0\Calculator.sourcelink.json
