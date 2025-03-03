@@ -17,18 +17,6 @@ Tudo o que você precisa para uma calculadora básica e funcional. 😉
 
 ---
 
-## Como Usar
-
-1. **Clone este repositório** no seu computador.
-2. Abra o projeto no **Visual Studio** ou no **VS Code**.
-3. **Execute o programa** e veja o menu com as operações disponíveis.
-4. Escolha uma operação e forneça os números.
-5. Após a operação, o programa te perguntará se você quer fazer outra operação ou sair.
-
-Bem simples, né? 😎
-
----
-
 ## Tecnologias Usadas
 
 - **C#**
@@ -47,13 +35,3 @@ Eu sei que esse projeto é bem simples, mas para mim, cada passo conta! A ideia 
 ## Contribuições
 
 Esse é um projeto pessoal, focado no meu aprendizado. Mas se você tiver alguma dica ou sugestão, fique à vontade para dar um **fork** no repositório ou até abrir um **pull request**. Eu adoraria aprender com você!
-
----
-
-### Vamos Juntos?
-
-Esse é só o começo de vários projetos que estou criando. Se você está começando também ou se já é mais experiente, vamos trocar ideias! 🤝
-
-Espero que esse projeto ajude tanto você quanto me ajudou. 🚀
-
-Até o próximo projeto! 🙌
